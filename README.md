@@ -1,23 +1,24 @@
 # ZYRLOK
 
-**Focus now. Play later.** ZYRLOK is a Windows focus app that helps you block selected games while studying, run a focus timer and earn a limited play window after an eligible session.
+**Focus now. Play later.** ZYRLOK is a Windows focus app that helps you block selected games while studying and build a consistent focus routine.
 
-## Current beta
+## Version 1.0.0
 
+The regular 1.0.0 build starts with **Free**. Pro features require a verified, signed licence. The release candidate has been built and tested locally; the public installer is pending signing and a complete install/upgrade/uninstall check.
+
+- **Free:** Normal Lock for up to 3 games at once, Focus Timer, daily goal and streaks.
+- **Pro:** unlimited game locks, Hard Lock, Exam Mode, Earn Your Play, extended statistics, accent themes and custom backgrounds. Up to 2 PCs per activation key.
 - Windows 10/11 x64 desktop app with a background game-blocking service.
-- Custom focus sessions and a minimum focus time for gaming rewards.
-- First-run tester tutorial that can be skipped and reopened.
-- Local diagnostic export; no automatic upload in the current tester build.
+- Local diagnostic export; no automatic upload.
 
-The current tester build is private. The [beta status](https://www.zyrlok.com/beta.html) and [download page](https://www.zyrlok.com/download.html) show when a public installer is ready. We will link a download only after the operator/contact details, release checks and signed installer are complete.
+## Subscriptions
 
-## Planned plans
+Prepared Pro prices: **€9.99 monthly** or **€69.99 yearly** (€5.83 per month when billed for a year at once). Paddle checkout integration is prepared for card and PayPal payments. **Payments, subscriptions and renewals are not enabled yet.** Merchant setup, final operator/support information and real provider lifecycle tests are still required.
 
-The proposed Pro prices are €9.99 monthly and €69.99 yearly (about €5.83 per month when billed for a year at once). These are pre-release drafts. No payment, subscription or renewal is active.
+## Website and release status
 
-## Follow progress
+The updated [website](https://zyrlok.com/) is live and adapts to mobile screens. ZYRLOK itself is a Windows desktop app. The [download page](https://zyrlok.com/download.html) shows public release availability; it currently does not offer a public installer.
 
-See [what changed](CHANGELOG.md) and the [project website](https://www.zyrlok.com/). This public repository shares product updates. The app's full source is kept in a private development repository.
+See [what changed](CHANGELOG.md). This public repository contains product information only. The app's full source remains in a private development repository.
 
-© 2026 ZYRLOK project contributors. No open-source license is granted for this repository's content.
-
+© 2026 ZYRLOK project contributors. No open-source licence is granted for this repository's content.
