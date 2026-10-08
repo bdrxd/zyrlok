@@ -1,5 +1,17 @@
 # Progress
 
+## 1.0.0 Free release · October 8, 2026
+
+- Published the regular Windows Free installer and SHA-256 checksum on GitHub.
+- Windows code signing is deferred. The installer is clearly marked unsigned.
+- Approved unsigned downloads require an official HTTPS asset and valid checksum;
+  Pro licence signature verification remains required.
+- Passed 35 desktop release checks and 10 automated billing server checks.
+- Actual Paddle sandbox annual purchase, immediate cancellation, stale event
+  replay and pause/resume tests passed. Live billing remains disabled.
+- Full installer lifecycle testing, a separate clean Windows PC check and final
+  operator/legal information remain open.
+
 ## 1.0.0 release candidate · October 7, 2026
 
 - Replaced the developer default with a regular Free plan. Pro requires a verified, signed device licence.

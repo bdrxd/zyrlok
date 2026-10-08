@@ -4,7 +4,7 @@
 
 ## Version 1.0.0
 
-The regular 1.0.0 build starts with **Free**. Pro features require a verified, signed licence. The release candidate has been built and tested locally; the public installer is pending a complete install/upgrade/uninstall check and release preparation. Windows code signing has been deferred for the initial launch; the installer is currently unsigned.
+The regular 1.0.0 build starts with **Free**. [Download the Windows installer](https://github.com/bdrxd/zyrlok/releases/tag/v1.0.0) and its SHA-256 checksum. Windows code signing has been deferred for the initial launch; the installer is **unsigned** and Windows may show an unknown publisher. Pro features require a verified, signed licence. Full installer lifecycle testing and a separate clean Windows PC check remain open.
 
 - **Free:** Normal Lock for up to 3 games at once, Focus Timer, daily goal and streaks.
 - **Pro:** unlimited game locks, Hard Lock, Exam Mode, Earn Your Play, extended statistics, accent themes and custom backgrounds. Up to 2 PCs per activation key.
@@ -17,7 +17,7 @@ Prepared Pro prices: **€9.99 monthly** or **€69.99 yearly** (€5.83 per mon
 
 ## Website and release status
 
-The updated [website](https://zyrlok.com/) is live and adapts to mobile screens. ZYRLOK itself is a Windows desktop app. The [download page](https://zyrlok.com/download.html) shows public release availability; it currently does not offer a public installer.
+The updated [website](https://zyrlok.com/) is live and adapts to mobile screens. ZYRLOK itself is a Windows desktop app. The [download page](https://zyrlok.com/download.html) lists the official release and checksum. Operator and legal pages are still incomplete drafts; the private address has not been published.
 
 Support: [zyrlok.support@gmail.com](mailto:zyrlok.support@gmail.com).
 
